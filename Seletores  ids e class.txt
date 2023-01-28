@@ -45,7 +45,7 @@ utilizando a div:hover da pra add um funçao que revela o texto ao passar o mous
             # = id
             . = class
             : = pseudo-class
-            :: = pseudo-element
+           :: = pseudo-element
             > = clildren
 
 
