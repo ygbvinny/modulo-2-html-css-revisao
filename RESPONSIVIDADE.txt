@@ -40,7 +40,7 @@ E para fazer a troca de tamanho de imagens ficar mais responsivo ainda, o comand
 
 
 primeiramente, pelo fato de ser uma substituição de imagem, a imagem obviamente estaria no <body> correto?
-detro do bory, ela estaria <img src= etc> correto?
+detro do body, ela estaria <img src= etc> correto?
 
 Pronto, pra fazer a mudança de imagens responsiva, teria que envelopar essa tag <img> com a tag <picture>
 como ficaria a tag completa?
